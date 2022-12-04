@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "autoprefixer": "^10.4.8",
+    "autoprefixer": "^10.4.13",
     "bootstrap-icons": "^1.9.1",
     "postcss": "^8.4.14",
     "sass": "^1.56.1",
