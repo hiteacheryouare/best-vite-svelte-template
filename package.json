@@ -11,7 +11,7 @@
   "dependencies": {
     "autoprefixer": "^10.4.13",
     "bootstrap-icons": "^1.10.3",
-    "postcss": "^8.4.14",
+    "postcss": "^8.4.23",
     "sass": "^1.56.1",
     "svelte-typewriter": "^3.1.4",
     "tailwindcss": "^3.2.4",
